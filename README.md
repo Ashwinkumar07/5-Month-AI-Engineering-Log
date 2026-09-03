@@ -15,12 +15,12 @@ Dedicated repository tracking theoretical study, daily coding velocity, and proj
 
 ### Week 1: Python & SQL Data Foundations
 
-#### Day 1 - [02/09/2026]
+#### Day 1 - [01/09/2026]
 - ⏱️ **Active Coding Time:** Logged via WakaTime
 - 💡 **Key Concepts:** Control flow, functions, Pandas DataFrame manipulation
 - 🛠️ **Artifact Built:** Created `week1_practice.ipynb` testing NumPy and Pandas operations
 - 🔗 **Commit:** `Initial commit`
-#### Day 2 - [Today's Date]
+#### Day 2 - [02/09/26]
 - ⏱️ **Active Coding Time:** Verified via WakaTime
 - 💡 **Key Concepts:** Handling `NaN` values, `fillna()`, multi-condition boolean indexing, `.loc` vs `.iloc`
 - 🛠️ **Artifact Built:** Created `day2_data_wrangling.ipynb`
