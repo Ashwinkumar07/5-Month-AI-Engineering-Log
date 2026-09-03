@@ -15,7 +15,7 @@ Dedicated repository tracking theoretical study, daily coding velocity, and proj
 
 ### Week 1: Python & SQL Data Foundations
 
-#### Day 1 - [Date]
+#### Day 1 - [02/09/2026]
 - ⏱️ **Active Coding Time:** Logged via WakaTime
 - 💡 **Key Concepts:** Control flow, functions, Pandas DataFrame manipulation
 - 🛠️ **Artifact Built:** Created `week1_practice.ipynb` testing NumPy and Pandas operations
