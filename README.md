@@ -20,3 +20,8 @@ Dedicated repository tracking theoretical study, daily coding velocity, and proj
 - 💡 **Key Concepts:** Control flow, functions, Pandas DataFrame manipulation
 - 🛠️ **Artifact Built:** Created `week1_practice.ipynb` testing NumPy and Pandas operations
 - 🔗 **Commit:** `Initial commit`
+#### Day 2 - [Today's Date]
+- ⏱️ **Active Coding Time:** Verified via WakaTime
+- 💡 **Key Concepts:** Handling `NaN` values, `fillna()`, multi-condition boolean indexing, `.loc` vs `.iloc`
+- 🛠️ **Artifact Built:** Created `day2_data_wrangling.ipynb`
+- 🔗 **Commit:** Updated repo with Day 2 code
